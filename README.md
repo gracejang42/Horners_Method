@@ -8,6 +8,9 @@ It is a variant of the Newton-Raphson Method made more efficient for hand calcul
 It was widely used until computers came into general use around 1970.
 
 ## Horner's Rule
+
+$$a_0+a_1 x+a_2 x^{2}+a_3 x^{3}+...+a_n x^{n} = a_0+x\left(a_1+x\left(a_2+x\left(a_3+...+x\left(a_{n-1}+xa_n \right)...\right)\right)\right)$$
+
 a0 + a1x + a2x^2 + a3x^3 + … + an x^n =
 a0 + x(a1 + x(a2 + x(a3 + … + x(an-1 + xan)…))) 
 
