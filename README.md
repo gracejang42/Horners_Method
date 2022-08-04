@@ -1,5 +1,5 @@
 # Horners_Method
-Polynomial evaluation in python 
+**Polynomial evaluation in python** 
 
 Horner’s Method (or Horner’s scheme) is an algorithm for polynomial evaluation. 
 After the introduction of computers, this algorithm became fundamental for computing efficiently with polynomials. 
